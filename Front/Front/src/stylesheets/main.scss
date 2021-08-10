@@ -1,0 +1,55 @@
+$border : "solid 1px";
+
+.timeCss{
+    width: 100px;
+}
+
+.buttonPesquisaCss{
+    width: 95% !important;
+    padding-left: 30px !important;
+    padding-top: 15px;
+}
+
+.headerCss{
+    padding-top: 13px;
+    padding-bottom: 20px;
+}
+
+.labelDaysCss{
+    text-align:center;
+}
+
+.videoTitle {
+  font-size: 15px;
+  margin-top: 0px;
+}
+
+.containerVideos {
+    background: cornsilk !important;
+    border: $border !important;
+  };
+  
+.containerDays {
+    background: lightgrey !important;
+    border: $border !important;
+  };
+
+.mainContainer { 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.containerTimeInput {
+  justify-content: space-evenly;
+  margin: 1rem;
+}
+
+.imgCss {
+  display: flex;
+}
+
+.weekDayCss {
+  font-size: 20px;
+}

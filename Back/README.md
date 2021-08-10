@@ -1,6 +1,6 @@
 Para utilizar siga os seguintes passos: <br>
 <ul> 
-  <li> git clone https://github.com/HPelela/youtubeApiBackend.git </li>
+  <li> git clone https://github.com/pedrosarkis/youtubeApiBackend.git </li>
   <li> npm i (para instalar as dependências) </li>
   <li> nodemon app.js </li>
 </ul>
